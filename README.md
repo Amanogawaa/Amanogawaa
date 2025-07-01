@@ -40,8 +40,6 @@
   <img src="https://cdn.simpleicons.org/postgresql/4169E1" height="31" alt="postgresql logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/react/61DAFB" height="31" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/svelte/FF3E00" height="31" alt="svelte logo"  />
 </div>
 
 ###
