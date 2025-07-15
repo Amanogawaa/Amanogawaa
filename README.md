@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">hi, im dominic, an aspiring sandwich architect with a knack for stacking flavors. im a third-year college student diving into machine learning and cloud computing, im building sandwiches and dumb system</p>
+<p align="left">hi, im dominic, an aspiring sandwich architect with a knack for stacking flavors. im a third-year college student diving into machine learning and cloud computing, im building sandwiches and dumb system.</p>
 
 ###
 
